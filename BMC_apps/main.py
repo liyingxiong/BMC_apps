@@ -4,7 +4,6 @@ Created on 26.02.2016
 @author: Yingxiong
 '''
 from kivy.uix.button import Button
-from kivy.uix.widget import Widget
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.floatlayout import FloatLayout
